@@ -1,0 +1,7 @@
+D:\dev\git\webproject\WebProject\CommonDataAdapter\obj\Debug\CommonDataAdapter.csprojResolveAssemblyReference.cache
+D:\dev\git\webproject\WebProject\CommonDataAdapter\bin\Debug\CommonDataAdapter.dll
+D:\dev\git\webproject\WebProject\CommonDataAdapter\bin\Debug\CommonDataAdapter.pdb
+D:\dev\git\webproject\WebProject\CommonDataAdapter\bin\Debug\StorableObjectsContracts.dll
+D:\dev\git\webproject\WebProject\CommonDataAdapter\bin\Debug\StorableObjectsContracts.pdb
+D:\dev\git\webproject\WebProject\CommonDataAdapter\obj\Debug\CommonDataAdapter.dll
+D:\dev\git\webproject\WebProject\CommonDataAdapter\obj\Debug\CommonDataAdapter.pdb
