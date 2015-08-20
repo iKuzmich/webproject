@@ -1,9 +1,0 @@
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\GlobalObjects.dll
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\GlobalObjects.pdb
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\CommonDataAdapter.dll
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\StorableObjectsContracts.dll
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\CommonDataAdapter.pdb
-D:\dev\git\webproject\WebProject\GlobalObjects\bin\Debug\StorableObjectsContracts.pdb
-D:\dev\git\webproject\WebProject\GlobalObjects\obj\Debug\GlobalObjects.csprojResolveAssemblyReference.cache
-D:\dev\git\webproject\WebProject\GlobalObjects\obj\Debug\GlobalObjects.dll
-D:\dev\git\webproject\WebProject\GlobalObjects\obj\Debug\GlobalObjects.pdb

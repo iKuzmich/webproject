@@ -1,5 +1,0 @@
-D:\dev\git\webproject\WebProject\DataObjects\bin\Debug\DataObjects.dll
-D:\dev\git\webproject\WebProject\DataObjects\bin\Debug\DataObjects.pdb
-D:\dev\git\webproject\WebProject\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
-D:\dev\git\webproject\WebProject\DataObjects\obj\Debug\DataObjects.dll
-D:\dev\git\webproject\WebProject\DataObjects\obj\Debug\DataObjects.pdb
