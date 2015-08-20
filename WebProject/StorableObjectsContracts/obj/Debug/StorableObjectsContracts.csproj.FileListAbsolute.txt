@@ -1,5 +1,0 @@
-D:\dev\git\webproject\WebProject\StorableObjectsContracts\bin\Debug\StorableObjectsContracts.dll
-D:\dev\git\webproject\WebProject\StorableObjectsContracts\bin\Debug\StorableObjectsContracts.pdb
-D:\dev\git\webproject\WebProject\StorableObjectsContracts\obj\Debug\StorableObjectsContracts.csprojResolveAssemblyReference.cache
-D:\dev\git\webproject\WebProject\StorableObjectsContracts\obj\Debug\StorableObjectsContracts.dll
-D:\dev\git\webproject\WebProject\StorableObjectsContracts\obj\Debug\StorableObjectsContracts.pdb
